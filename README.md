@@ -19,7 +19,7 @@ It  will allow users to browse available saloons, select services, and book appo
 
 ### 4. Saloon Details Page
 - Show saloon details, available services and slots
-- Option to bokk amm appointment
+- Option to book appointment
 
 ### 5. Confirmation Page
 - Display the appointment details(date,time,service,price)
