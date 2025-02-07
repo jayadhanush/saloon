@@ -33,25 +33,30 @@ It  will allow users to browse available saloons, select services, and book appo
 |Database    |  MongoDB|
 |Styling  |    Tailwind CSS|
 
-## images
-### login page
+
+
+## **Images**
+### Login page
 <image src="./images/loginPage.png">
 
-###  signup page
+###  Signup page
 <image src="./images/signupPage.png">
 
-### login page
+### User Dashboard page
 <image src="./images/userDashboard.png">
 
-###  signup page
+###  Saloon List page
 <image src="./images/saloonlist.png">
 
-### login page
+### Saloon Details page
 <image src="./images/saloonDetails.png">
 
-###  signup page
+###  Owner dashboard page
 <image src="./images/ownerDashboard.png">
 
-### login page
+### Confirmation page
 <image src="./images/confirmation.png">
+
+## Wireframe Link
+https://www.figma.com/design/i7SnhhZaj1Siekwxkp92XZ/Untitled?node-id=0-1&p=f&t=QhQCZgsJCpjP2Pvt-0
 
