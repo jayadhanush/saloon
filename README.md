@@ -27,7 +27,8 @@ It  will allow users to browse available saloons, select services, and book appo
 
 
 ## **Preferred Tech Stack**
-- Frontend   :   React.js
-- Backend    :   Node.js / Express.js
-- Database   :   MongoDB
-- Styling    :   Tailwind CSS
+|Frontend|React.js|
+|-------|-------|
+|Backend    |   Node.js / Express.js|
+|Database    |  MongoDB|
+|Styling  |    Tailwind CSS|
