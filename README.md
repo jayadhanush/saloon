@@ -32,3 +32,26 @@ It  will allow users to browse available saloons, select services, and book appo
 |Backend    |   Node.js / Express.js|
 |Database    |  MongoDB|
 |Styling  |    Tailwind CSS|
+
+## images
+### login page
+<image src="./images/loginPage.png">
+
+###  signup page
+<image src="./images/signupPage.png">
+
+### login page
+<image src="./images/userDashboard.png">
+
+###  signup page
+<image src="./images/saloonlist.png">
+
+### login page
+<image src="./images/saloonDetails.png">
+
+###  signup page
+<image src="./images/ownerDashboard.png">
+
+### login page
+<image src="./images/confirmation.png">
+
